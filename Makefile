@@ -9,4 +9,4 @@ run: build
 
 .PHONY: build
 build:
-	cargo build
+	cargo bootimage
